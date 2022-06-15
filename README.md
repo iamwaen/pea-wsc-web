@@ -1,1 +1,3 @@
-# pea-wsc-web
+# Getting Started
+
+### `npm start`
